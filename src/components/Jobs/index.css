@@ -1,0 +1,84 @@
+.profile-bg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  height: 250px;
+  padding: 20px;
+  width: 300px;
+  border-radius: 20px;
+}
+.total-grp {
+  display: flex;
+  margin: 50px;
+}
+.search-btn {
+  background-color: #272727;
+  width: 60px;
+  color: white;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-width: 0px;
+}
+.search-input {
+  width: 400px;
+  color: white;
+  padding-left: 20px;
+  background-color: transparent;
+  border-width: 1px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.no-job-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+}
+.search-input-bg {
+  display: flex;
+  height: 33px;
+}
+.job-bg {
+  background-color: black;
+  height: 100%;
+  color: white;
+}
+.search-bg {
+  margin-left: 40px;
+}
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  width: 300px;
+}
+.line {
+  border-color: #64748b;
+  border-width: 1px;
+  border-style: solid;
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+.types {
+  padding-left: 10px;
+
+  font-size: 15px;
+}
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+li {
+  padding-top: 15px;
+}
+.head {
+  font-size: 20px;
+}
+.name-head {
+  color: #6366f1;
+}
+.para-bio {
+  color: #64748b;
+}

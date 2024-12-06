@@ -1,0 +1,53 @@
+.details-bg {
+  background-color: black;
+}
+.items-bg {
+  background-color: #272727;
+  padding: 20px;
+  border-radius: 15px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: white;
+  margin: 30px;
+}
+.items-bg-1 {
+  display: flex;
+  flex-wrap: wrap;
+}
+.ima-skill {
+  margin-right: 20px;
+  margin-bottom: 30px;
+}
+.life-grp {
+  display: flex;
+  
+  align-items: center;
+}
+.skill-li {
+  margin-right: 150px;
+  display: flex;
+  width: 200px;
+}
+.grp-location {
+  display: flex;
+}
+.items-bg-2 {
+  background-color: #272727;
+  padding: 20px;
+  border-radius: 15px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: white;
+  margin: 30px;
+  width: 300px;
+}
+.visit-grp {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.link-ref {
+  color: #6366f1;
+  text-decoration: none;
+  font-size: 20px;
+}

@@ -1,0 +1,30 @@
+.header-bg {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #272727;
+}
+.logout-btn {
+  height: 35px;
+  width: 120px;
+  color: white;
+  background-color: #4f46e5;
+  border-radius: 5px;
+  border-width: 0px;
+}
+.grp-header {
+  display: flex;
+  justify-content: space-between;
+}
+.head-p {
+  color: white;
+  padding-right: 50px;
+}
+.logo-btn {
+  border-width: 0px;
+  background-color: transparent;
+}
